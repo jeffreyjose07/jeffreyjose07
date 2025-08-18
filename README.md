@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Jeffrey Jose!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
 
-I'm a passionate software developer with a strong foundation in computer science from **IIT Kharagpur (2019)**. I believe in the power of continuous learning and focus on building scalable, efficient solutions that make a real impact.
+I'm a passionate software developer currently working at **Jio Platforms Limited** with an M.Tech from **IIT Kharagpur (2019)**. I specialize in backend development and system architecture, building scalable solutions with Java and Spring Boot. While I leverage AI tools for frontend development, my core expertise lies in creating robust backend systems and APIs that power real-world applications.
 
 ### 🏆 GitHub Achievements
 - **Pair Extraordinaire** - Collaborative coding expert
@@ -22,24 +22,31 @@ I'm a passionate software developer with a strong foundation in computer science
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Databases
+### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🚀 Featured Projects
 
 ### [Scalable Chat Platform](https://github.com/jeffreyjose07/scalable-chat-platform)
-A real-time chat platform built with **Spring Boot** and **React** featuring:
-- Real-time messaging capabilities
-- Scalable architecture
-- Modern UI/UX design
-- WebSocket integration
+A production-ready real-time chat platform built with **Spring Boot** and **React** featuring:
+- WebSocket-based real-time messaging
+- Microservices architecture for scalability
+- RESTful API design
+- Modern React frontend (AI-assisted development)
 
 ### [Void Blocks Game](https://github.com/jeffreyjose07/void-blocks-game)
 A web-based fun game showcasing:
@@ -49,10 +56,11 @@ A web-based fun game showcasing:
 - Engaging user experience
 
 ### [GeekDemy](https://github.com/jeffreyjose07/geekdemy)
-Educational platform built with **Java** featuring:
-- Learning management system
-- Course content delivery
-- User progress tracking
+Educational platform built with **Java** and **Spring Boot** featuring:
+- Learning management system architecture
+- Course content delivery APIs
+- User progress tracking and analytics
+- Database-driven content management
 
 ### [CP CodeForces](https://github.com/jeffreyjose07/cpcodeforces)
 Competitive programming solutions in **C++** demonstrating:
@@ -73,10 +81,11 @@ Competitive programming solutions in **C++** demonstrating:
 
 ## 🌟 What I'm Currently Working On
 
-- 🔄 **Learning how to learn properly** - Continuous improvement in learning methodologies
-- 🚀 **Full-stack development** - Building scalable web applications
+- 🔧 **Backend Engineering** - Building scalable Java-based microservices at Jio Platforms
+- 🤖 **AI-Assisted Development** - Leveraging AI tools for efficient frontend development
 - 🎯 **Problem-solving** - Competitive programming and algorithmic challenges
-- 📚 **Knowledge sharing** - Contributing to open source and helping others learn
+- 📚 **Continuous Learning** - Meta certifications in Frontend Development and Version Control
+- 🚀 **System Architecture** - Designing robust, scalable backend solutions
 
 ## 📫 Connect With Me
 
@@ -84,7 +93,7 @@ Competitive programming solutions in **C++** demonstrating:
   <a href="https://jeffreyjose07.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/jeffreyjose07" target="_blank">
+  <a href="https://linkedin.com/in/jeffrey-jose-07-k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jeffreyjose07@gmail.com">
@@ -100,7 +109,7 @@ Competitive programming solutions in **C++** demonstrating:
 
 > *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
 
-I believe in hands-on learning and practical application. Every project is an opportunity to grow, and every challenge is a chance to innovate.
+I believe in hands-on learning and practical application. As someone who's always eager to learn new skills and adapt to new situations, I see every project as an opportunity to grow, and every challenge as a chance to innovate. My approach combines strong backend engineering fundamentals with modern AI-assisted development practices.
 
 ---
 
