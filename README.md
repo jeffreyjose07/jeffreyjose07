@@ -41,12 +41,26 @@ I'm a passionate software developer currently working at **Jio Platforms Limited
 
 ## 🚀 Featured Projects
 
+### [Portfolio Website](https://github.com/jeffreyjose07/jeffreyjose07.github.io)
+Personal portfolio website built with **HTML** showcasing:
+- Professional presentation of skills and projects
+- Responsive design and modern UI
+- Interactive elements and smooth navigation
+- Showcase of achievements and experience
+
 ### [Scalable Chat Platform](https://github.com/jeffreyjose07/scalable-chat-platform)
 A production-ready real-time chat platform built with **Spring Boot** and **React** featuring:
 - WebSocket-based real-time messaging
 - Microservices architecture for scalability
 - RESTful API design
 - Modern React frontend (AI-assisted development)
+
+### [TruthMeterAI](https://github.com/jeffreyjose07/truthmeterai)
+Measures the actual impact of AI pair programming using research-backed metrics. Built with **TypeScript**, featuring:
+- Tracks code quality, productivity, churn, duplication, and ROI
+- Research-backed metrics to reveal whether AI is helping or slowing you down
+- Comprehensive analytics and insights
+- Data-driven approach to AI pair programming assessment
 
 ### [Void Blocks Game](https://github.com/jeffreyjose07/void-blocks-game)
 A web-based fun game showcasing:
@@ -61,12 +75,6 @@ Educational platform built with **Java** and **Spring Boot** featuring:
 - Course content delivery APIs
 - User progress tracking and analytics
 - Database-driven content management
-
-### [CP CodeForces](https://github.com/jeffreyjose07/cpcodeforces)
-Competitive programming solutions in **C++** demonstrating:
-- Algorithm implementation
-- Data structure expertise
-- Problem-solving skills
 
 ## 📊 GitHub Stats
 
