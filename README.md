@@ -79,12 +79,12 @@ Educational platform built with **Java** and **Spring Boot** featuring:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyjose07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyjose07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jeffreyjose07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.onrender.com/?user=jeffreyjose07&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyjose07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jeffreyjose07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🌟 What I'm Currently Working On
